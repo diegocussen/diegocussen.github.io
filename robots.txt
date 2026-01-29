@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://moeennehzati.github.io/sitemap.xml
+Sitemap: https://diegocussen.github.io/sitemap.xml
