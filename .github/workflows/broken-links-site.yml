@@ -19,21 +19,26 @@ jobs:
         with:
           ruby-version: "3.2.2"
           bundler-cache: true
-      - name: Update _config.yml ⚙️
-        uses: fjogeleit/yaml-update-action@main
-        with:
-          commitChange: false
-          valueFile: "_config.yml"
-          changes: |
-            {
-              "giscus.repo": "${{ github.repository }}",
-              "baseurl": ""
-            }
       - name: Install and Build 🔧
         run: |
           pip3 install --upgrade jupyter
+
+          REPO_NAME="${{ github.event.workflow_run.repository.name }}"
+          OWNER="${{ github.event.workflow_run.repository.owner.login }}"
+          if [ "${REPO_NAME}" = "${OWNER}.github.io" ]; then
+            BASEURL=""
+          else
+            BASEURL="/${REPO_NAME}"
+          fi
+
+          cat > _config_deploy.yml <<EOF
+          baseurl: "${BASEURL}"
+          giscus:
+            repo: "${{ github.repository }}"
+          EOF
+
           export JEKYLL_ENV=production
-          bundle exec jekyll build
+          bundle exec jekyll build --config _config.yml,_config_deploy.yml
       - name: Purge unused CSS 🧹
         run: |
           npm install -g purgecss
