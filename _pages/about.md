@@ -2,16 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. NYU Department of Economics
+subtitle: New York University (NYU) — Website in progress
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Office 630</p>
-    <p>19 West 4th Street</p>
-    <p>New York, NY 10003</p>
+    <p>New York, NY (TBD)</p>
 
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -19,12 +17,17 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 <div class="homepage-banner">
-  <strong>Actively seeking a research internship (Summer ’26):</strong>  
-  Optimization • Statistics • Learning Theory
+  <strong>Website update in progress:</strong>
+  bio • research • publications • projects (coming soon)
 </div>
 
-  <p>I'm a Ph.D. student at NYU department of economics.</p>
-  <p>My interests are centered around mathematical and computational optimization and their application to economic theory and machine learning. Recently, I've been focusing on computational optimal transport theory and its applications to mechanism design and matching.</p>
-  <p>Previously, I was a Predoctoral Research Fellow at UCLA Anderson School of Management, where I worked on large-scale causal inference using genetic data. Before that, I was an auction design consultant at Cafe Bazaar, optimizing their online ad auctions. I earned my B.Sc. in Computer Engineering from Sharif University of Technology somewhere along the way.</p>
-  <p>Outside of work, I get overly excited by cats, cooking and baking, fantasy (unfortunately not LOTR), modern history (especially the Middle East), population genetics, mathematical logic, theory of computation, and foundations of math.</p>
+<p>Hi — I’m <strong>Diego Cussen</strong>.</p>
 
+<p>This site is being adapted and is currently under construction. In the meantime:</p>
+<ul>
+  <li><a href="https://scholar.google.com/citations?user=iK8BE2AAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">Google Scholar</a></li>
+  <li><a href="https://www.linkedin.com/in/diego-cussen-b43bb7262/" target="_blank" rel="noopener noreferrer">LinkedIn</a></li>
+</ul>
+
+<p><strong>Research interests:</strong> TBD</p>
+<p><strong>Bio:</strong> TBD</p>
