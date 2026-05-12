@@ -66,15 +66,12 @@
     margin-top: 1rem;
   }
 
-  /* Space between major sections (Published / Working / WIP) — markdown --- */
-  hr {
-    margin: 3.25rem 0;
+  /* Space between major sections — use <div class="research-section-break"> in research.md */
+  .research-section-break {
+    margin: 3.5rem 0;
     border: 0;
     border-top: 1px solid var(--global-divider-color);
-  }
-
-  hr + h2 {
-    margin-top: 0.25rem;
+    height: 0;
   }
 
   details.research-abstract {
