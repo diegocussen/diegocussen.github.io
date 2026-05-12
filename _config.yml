@@ -7,7 +7,9 @@ first_name: Diego
 middle_name: 
 last_name: Cussen
 email: dc5004@nyu.edu
-description: > # the ">" symbol means to ignore newlines until "footer_text:"  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+description: > # the ">" symbol means to ignore newlines until "footer_text:"
+  Economics PhD student at NYU; industrial organization and applied econometrics.
+  Master's and BA in economics from Pontificia Universidad Católica de Chile.
 footer_text: >
   Powered by Jekyll with al-folio theme.
   Hosted by GitHub Pages.
@@ -76,7 +78,7 @@ dblp_url: # your DBLP profile url
 discord_id: # your discord id (18-digit unique numerical identifier)
 facebook_id: # your facebook id
 flickr_id: # your flickr id
-github_username: # your GitHub user name
+github_username: diegocussen # your GitHub user name
 gitlab_username: # your GitLab user name
 ieee_id: # your ieeexplore.ieee.org/author/id
 instagram_id: # your instagram id

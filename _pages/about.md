@@ -17,8 +17,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-**Website and bio in progress.** Add a one-line highlight here (for example research interests or opportunities).
+I am an economics PhD student at NYU. My fields are **industrial organization** and **applied econometrics**. I completed my master’s and undergraduate studies in economics at [Pontificia Universidad Católica de Chile](https://www.uc.cl/).
 
-I'm **Diego Cussen**. This site is being expanded; in the meantime you can reach me via [Google Scholar](https://scholar.google.com/citations?user=iK8BE2AAAAAJ&hl=en&oi=ao) and [LinkedIn](https://www.linkedin.com/in/diego-cussen-b43bb7262/).
+Contact me at [dc5004@nyu.edu](mailto:dc5004@nyu.edu).
 
-A fuller research summary and background will go here soon.
+You can also find me on [GitHub](https://github.com/diegocussen), [LinkedIn](https://www.linkedin.com/in/diego-cussen-b43bb7262/), and [Google Scholar](https://scholar.google.com/citations?user=iK8BE2AAAAAJ&hl=en&oi=ao).

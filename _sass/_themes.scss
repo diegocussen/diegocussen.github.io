@@ -1,5 +1,5 @@
 /*******************************************************************************
- * Themes — Light and Dark Mode (NYU palette, extra dark violet background)
+ * Themes — Light and Dark Mode (NYU palette; dark mode = neutral black/gray)
  ******************************************************************************/
 
 :root {
@@ -69,28 +69,28 @@
 }
 
 html[data-theme="dark"] {
-  --global-bg-color: #1a0028;             // extra dark violet
-  --global-card-bg-color: #29003b;        // slightly lighter cards
-  --global-code-bg-color: #260034;        // code blocks
-  --global-footer-bg-color: #14001c;      // footer violet-black
+  --global-bg-color: #121212;             // near-black page background
+  --global-card-bg-color: #1e1e1e;        // cards / panels
+  --global-code-bg-color: #0d0d0d;        // code blocks
+  --global-footer-bg-color: #0a0a0a;      // footer slightly darker than body
 
-  --global-text-color: #f5f5f5;
-  --global-text-color-light: #bbbbbb;
+  --global-text-color: #f0f0f0;
+  --global-text-color-light: #a8a8a8;
 
-  --global-theme-color: #bb99dd;          // Light violet for links & accents
-  --global-hover-color: #bb99dd;
+  --global-theme-color: #c9a8e8;          // soft violet — links & accents (readable on gray)
+  --global-hover-color: #dcc2f2;
   --global-hover-text-color: #ffffff;
 
-  --global-footer-text-color: #f5f5f5;
-  --global-footer-link-color: #bb99dd;
-  --global-distill-app-color: #bbbbbb;
+  --global-footer-text-color: #d0d0d0;
+  --global-footer-link-color: #c9a8e8;
+  --global-distill-app-color: #a8a8a8;
 
-  --global-divider-color: rgba(255, 255, 255, 0.1);
-  --global-back-to-top-bg-color: rgba(187, 153, 221, 0.4);
+  --global-divider-color: rgba(255, 255, 255, 0.12);
+  --global-back-to-top-bg-color: rgba(255, 255, 255, 0.18);
   --global-back-to-top-text-color: #ffffff;
 
-  --global-newsletter-bg-color: #29003b;
-  --global-newsletter-text-color: #f5f5f5;
+  --global-newsletter-bg-color: #1e1e1e;
+  --global-newsletter-text-color: #f0f0f0;
 
   --global-tip-block: #42b983;
   --global-tip-block-bg: #e2f5ec;
