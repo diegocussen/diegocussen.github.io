@@ -2,6 +2,7 @@
 layout: page
 permalink: /research/
 title: Research
+hide_title: true
 nav: true
 nav_order: 1
 ---
@@ -62,10 +63,10 @@ nav_order: 1
 
 # Work in progress
 
-### “Design of Emissions Trading Systems” (with [Niklas Schoch](https://niklasschoch.github.io/)).
+### Design of Emissions Trading Systems (with [Niklas Schoch](https://niklasschoch.github.io/)).
 
-### “Prevalence Results for Economics and Game Theory” (with [Moeen Nehzati](https://moeennehzati.github.io/)).
+### Prevalence Results for Economics and Game Theory (with [Moeen Nehzati](https://moeennehzati.github.io/)).
 
-### “Determinants of Fiscal Capacity in Early Modern Europe”.
+### Determinants of Fiscal Capacity in Early Modern Europe.
 
 </div>
