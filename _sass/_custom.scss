@@ -1,5 +1,53 @@
 @import "variables";
 
+/* Research page: slightly smaller body + collapsible abstracts */
+.research-list {
+  font-size: 0.9rem;
+  line-height: 1.55;
+
+  h2 {
+    font-size: 1.25rem;
+    margin-top: 1.25rem;
+  }
+
+  h3 {
+    font-size: 1.05rem;
+    margin-top: 1rem;
+  }
+
+  details.research-abstract {
+    margin: 0.35rem 0 1rem;
+
+    summary {
+      display: inline-block;
+      cursor: pointer;
+      list-style: none;
+      padding: 0.2rem 0.65rem;
+      border-radius: 4px;
+      border: 1px solid var(--global-theme-color);
+      font-size: 0.88rem;
+      font-weight: 600;
+      color: var(--global-theme-color);
+      user-select: none;
+    }
+
+    summary::-webkit-details-marker {
+      display: none;
+    }
+
+    &[open] summary {
+      margin-bottom: 0.5rem;
+    }
+
+    .abstract-body {
+      margin-top: 0.35rem;
+      padding-left: 0.15rem;
+      border-left: 2px solid var(--global-divider-color);
+      padding-left: 0.65rem;
+    }
+  }
+}
+
 /* === Theme-aware banner (works in light & dark) === */
 .homepage-banner {
   /* layout */
