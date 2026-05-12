@@ -2,32 +2,23 @@
 layout: about
 title: about
 permalink: /
-subtitle: New York University (NYU) — Website in progress
+subtitle: Affiliations. NYU Department of Economics
 
 profile:
   align: right
   image: prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>New York, NY (TBD)</p>
+    <p>Office TBD</p>
+    <p>New York, NY</p>
 
-news: false  # includes a list of news items
+news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
-<div class="homepage-banner">
-  <strong>Website update in progress:</strong>
-  bio • research • publications • projects (coming soon)
-</div>
+**Website and bio in progress.** Add a one-line highlight here (for example research interests or opportunities).
 
-<p>Hi — I’m <strong>Diego Cussen</strong>.</p>
+I'm **Diego Cussen**. This site is being expanded; in the meantime you can reach me via [Google Scholar](https://scholar.google.com/citations?user=iK8BE2AAAAAJ&hl=en&oi=ao) and [LinkedIn](https://www.linkedin.com/in/diego-cussen-b43bb7262/).
 
-<p>This site is being adapted and is currently under construction. In the meantime:</p>
-<ul>
-  <li><a href="https://scholar.google.com/citations?user=iK8BE2AAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">Google Scholar</a></li>
-  <li><a href="https://www.linkedin.com/in/diego-cussen-b43bb7262/" target="_blank" rel="noopener noreferrer">LinkedIn</a></li>
-</ul>
-
-<p><strong>Research interests:</strong> TBD</p>
-<p><strong>Bio:</strong> TBD</p>
+A fuller research summary and background will go here soon.

@@ -9,23 +9,10 @@ display_categories: [research]
 horizontal: false
 ---
 
-<!-- pages/projects.md -->
-<div class="projects">
-  <section>
-    <h1>Project 1 (TBD)</h1>
-    <p><strong>Repository:</strong> TBD</p>
-    <p><strong>Description:</strong> TBD</p>
-  </section>
+### Project (TBD)
 
-  <section>
-    <h1>Project 2 (TBD)</h1>
-    <p><strong>Repository:</strong> TBD</p>
-    <p><strong>Description:</strong> TBD</p>
-  </section>
+Short description of a technical or research project. Link the repo, paper, or demo when you have them.
 
-  <section>
-    <h1>Project 3 (TBD)</h1>
-    <p><strong>Repository:</strong> TBD</p>
-    <p><strong>Description:</strong> TBD</p>
-  </section>
-</div>
+### Project (TBD)
+
+Another project blurb in the same style as the reference site—plain headings and paragraphs rather than placeholder cards.
