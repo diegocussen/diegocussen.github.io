@@ -11,6 +11,7 @@ nav_order: 6
 
 ### Graduate
 - Econometrics I (TA), Summer 2023
+
 ### Undergraduate 
 - International Economics (**lecturer**), 2025
 - Microeconomic Analysis (TA), 2026
@@ -22,6 +23,7 @@ nav_order: 6
 ### Graduate
 - Political Economy (TA), 2021
 - Industrial Organization (TA), 2021
+
 ### Undergraduate 
 - Introduction to Economics (**lecturer**), 2022
 - Econometrics (TA), 2019
