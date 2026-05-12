@@ -1,5 +1,56 @@
 @import "variables";
 
+/* About page — selected publications (compact, numbered, journal badges; Nehzati-style) */
+.about-selected-publications {
+  margin-top: 0.5rem;
+
+  .publications {
+    margin-top: 0.35rem;
+  }
+
+  .publications ol.bibliography {
+    list-style: decimal !important;
+    padding-left: 1.6rem !important;
+    margin-left: 0;
+
+    li {
+      display: list-item;
+      margin-bottom: 1.15rem;
+      padding-left: 0.15rem;
+    }
+  }
+
+  /* Hide Altmetric / Dimensions / Scholar image badges on home only */
+  .badges {
+    display: none !important;
+  }
+
+  .title {
+    font-size: 1.05rem;
+    line-height: 1.35;
+    font-weight: 600;
+  }
+
+  .author,
+  .periodical {
+    font-size: 0.95rem;
+    line-height: 1.45;
+  }
+
+  .links .btn {
+    font-size: 0.8rem;
+    padding: 0.15rem 0.55rem;
+  }
+
+  .abbr abbr.badge,
+  .abbr .badge {
+    min-width: 3.25rem;
+    text-align: center;
+    font-size: 0.75rem;
+    font-weight: 600;
+  }
+}
+
 /* Research page: slightly smaller body + collapsible abstracts */
 .research-list {
   font-size: 0.9rem;
@@ -13,6 +64,17 @@
   h3 {
     font-size: 1.05rem;
     margin-top: 1rem;
+  }
+
+  /* Space between major sections (Published / Working / WIP) — markdown --- */
+  hr {
+    margin: 3.25rem 0;
+    border: 0;
+    border-top: 1px solid var(--global-divider-color);
+  }
+
+  hr + h2 {
+    margin-top: 0.25rem;
   }
 
   details.research-abstract {
