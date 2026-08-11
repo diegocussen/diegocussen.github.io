@@ -3,7 +3,7 @@ layout: page
 title: Projects
 permalink: /projects/
 description: Selected Technical Projects
-nav: true
+nav: false
 nav_order: 2
 display_categories: [research]
 horizontal: false

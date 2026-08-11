@@ -65,7 +65,11 @@ nav_order: 1
 
 ### Design of Emissions Trading Systems (with [Niklas Schoch](https://niklasschoch.github.io/)).
 
-### Prevalence Results for Economics and Game Theory (with [Moeen Nehzati](https://moeennehzati.github.io/)).
+<!-- ### Prevalence Results for Economics and Game Theory (with [Moeen Nehzati](https://moeennehzati.github.io/)). -->
+
+### Moral Hazard, Strategic Bankruptcy, and Environmental Policy Design. With Lucas Schmitz and Krista Duncan.
+
+### Uniqueness of Bertrand-Nash Equilibrium for Some Models with Mixed Logit Demand and Multiproduct Firms.
 
 ### Determinants of Fiscal Capacity in Early Modern Europe.
 
