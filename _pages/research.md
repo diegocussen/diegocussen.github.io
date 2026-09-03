@@ -39,9 +39,9 @@ nav_order: 1
 
 # Working papers
 
-### Nash-in-Nash Equilibrium with Inefficient Contracts
+### [Nash-in-Nash Equilibrium with Inefficient Contracts](/assets/pdf/cn_bargaining_2026_9_3.pdf)
 
-(with [Moeen Nehzati](https://moeennehzati.github.io/)). New draft coming soon.
+(with [Moeen Nehzati](https://moeennehzati.github.io/)). 
 
 <details class="research-abstract"><summary>Abstract</summary><div class="abstract-body"><p>Inefficient contracts between firms and suppliers—contracts that do not maximize gains from trade—are ubiquitous. Research on bilateral oligopolies with inefficient contracts commonly employs the Nash-in-Nash bargaining equilibrium concept, but has been hampered by a lack of theoretical foundations for this equilibrium concept. We provide conditions for the existence and uniqueness of Nash-in-Nash equilibria in vertical relations games. These conditions imply that bargaining models are point identified, and can be verified in empirical work. We also provide an algorithm for fast equilibrium computation. These results advance our theoretical understanding of bilateral oligopolies and extend the toolset available to empirical researchers.</p></div></details>
 
