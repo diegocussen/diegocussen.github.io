@@ -39,7 +39,7 @@ nav_order: 1
 
 # Working papers
 
-### [Nash-in-Nash Equilibrium with Inefficient Contracts](/assets/pdf/cn_bargaining_2026_9_3.pdf)
+### [Nash-in-Nash Equilibrium with Inefficient Contracts](/assets/pdf/cn_bargaining_2026_9_7.pdf)
 
 (with [Moeen Nehzati](https://moeennehzati.github.io/)). 
 
