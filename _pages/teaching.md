@@ -10,22 +10,22 @@ nav_order: 6
 
 ## New York University
 
-### Graduate
+#### Graduate
 - Econometrics I (TA), Summer 2023
 
-### Undergraduate 
+#### Undergraduate 
 - International Economics (**lecturer**), 2025
 - Microeconomic Analysis (TA), 2026
-- International Economics (TA), 2024–2025
+- International Economics (TA), 2024–2026
 - Introduction to Macroeconomics (TA), 2023
 
 ## Pontificia Universidad Católica de Chile
 
-### Graduate
+#### Graduate
 - Political Economy (TA), 2021
 - Industrial Organization (TA), 2021
 
-### Undergraduate 
+#### Undergraduate 
 - Introduction to Economics (**lecturer**), 2022
 - Econometrics (TA), 2019
 - Macroeconomics II (Monetary Economics) (TA), 2019

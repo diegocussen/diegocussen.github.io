@@ -39,7 +39,7 @@ nav_order: 1
 
 # Working papers
 
-### [Nash-in-Nash Equilibrium with Inefficient Contracts](/assets/pdf/cn_bargaining_2026_9_7.pdf)
+### [Nash-in-Nash Equilibrium with Inefficient Contracts](/assets/pdf/cn_bargaining_2026_11_10.pdf)
 
 (with [Moeen Nehzati](https://moeennehzati.github.io/)). 
 
@@ -67,7 +67,7 @@ nav_order: 1
 
 # Work in progress
 
-### Design of Emissions Trading Systems (with [Niklas Schoch](https://niklasschoch.github.io/)).
+### Design of Emissions Trading Systems (job market paper, with [Niklas Schoch](https://niklasschoch.github.io/)).
 
 <!-- ### Prevalence Results for Economics and Game Theory (with [Moeen Nehzati](https://moeennehzati.github.io/)). -->
 
